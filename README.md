@@ -12,13 +12,14 @@
 ##
 <div align="center" style="margin-bottom:100px">
 <a href="https://www.linkedin.com/in/angelitaluz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+  <!--
 <a href="https://instagram.com/pandinhagameoficial/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a> 
 <a href="https://www.youtube.com/channel/UCKx-TvSLl2RsljsNArQG2EQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://twitter.com/PandinhaGame" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a>
 <a href="https://www.facebook.com/PandinhaGame"target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
 <a href="https://www.twitch.tv/PandiinhaGame" target="_blank"><img src="https://img.shields.io/badge/Twitch-6441a5?style=for-the-badge&logo=Twitch&logoColor=white" target="_blank"></a>
 <a href="https://steamcommunity.com/id/pandinhagame" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
-<a href="https://play.google.com/store/apps/details?id=com.vidroid.com.br.apps.pandinhagame"target="_blank"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" target="_blank"></a> 
+<a href="https://play.google.com/store/apps/details?id=com.vidroid.com.br.apps.pandinhagame"target="_blank"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" target="_blank"></a> -->
 </div>
 
 <!-- # My Skills
